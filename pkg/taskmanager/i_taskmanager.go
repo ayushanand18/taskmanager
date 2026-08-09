@@ -1,9 +1,9 @@
-package main
+package taskmanager
 
 import (
 	"context"
 
-	"github.com/ayushanand18/taskmanager/pkg/types"
+	"github.com/ayushanand18/taskmanager/pkg/taskmanager/types"
 )
 
 // TaskManager - handle multitudes of task in a CPU constrained environment

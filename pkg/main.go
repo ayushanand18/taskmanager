@@ -1,6 +1,0 @@
-package main
-
-func main() {
-	// TODO: Implement this later on
-
-}

@@ -1,10 +1,10 @@
-package main
+package taskmanager
 
 import (
 	"context"
 	"sync"
 
-	"github.com/ayushanand18/taskmanager/pkg/types"
+	"github.com/ayushanand18/taskmanager/pkg/taskmanager/types"
 )
 
 var _taskManagerInstance TaskManager
